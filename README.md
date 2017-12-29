@@ -1,2 +1,1 @@
-# adai.github.io
-Adai's Blog
+# Adai's Blog
